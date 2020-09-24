@@ -9,13 +9,13 @@
 
 <h2>Installation:-</h2>
 
-$ git clone https://github.com/kinghacker0/Apk-Binder
+$ git clone https://github.com/Abhaysoft-inc/apk-binder.git
 
-$ bash binder.sh
+$ bash apk-binder.sh
 
 <p>Note :- You must need to sign this apk with apk-editro pro.
 
-Watch video tutorial :-https://www.youtube.com/watch?v=OuqFxGhBSGU
+
 
 Download Apk-Editro Pro - https://www.hackersking.in/2019/12/apk-editor-pro-mod-version.html
 </p>
